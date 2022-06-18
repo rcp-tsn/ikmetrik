@@ -10,7 +10,7 @@
 
             <!--begin::Dashboard-->
             <br/>
-
+            {{--BU BİR DENEME İŞLEMİ--}}
             @include('crm.notifications.newspapers')
             <br>
             @include('partials.alerts.error')
