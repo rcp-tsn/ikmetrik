@@ -9,7 +9,7 @@
         <div class=" container-fluid ">
 
             <!--begin::Dashboard-->
-            <br/>
+
             {{--BU BİR DENEME İŞLEMİ--}}
             @include('crm.notifications.newspapers')
             <br>
